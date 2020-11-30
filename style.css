@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to right, white , rgb(190, 190, 140));
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#currency {
+    margin-bottom: 10px;
+}
+
+#label11, #label22 {
+    text-align: center;
+    align-content: center;
+}
+
+
+#headerh2 {
+    text-align: center;
+}
+
+h2 {
+    margin-right: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+#ratings {
+    text-align: center;
+} 
+
+#historicrate, #currentrate {
+display: inline-block;
+align-content: center;
+margin-left: 30px;
+margin-right: 80px;
+}
